@@ -18,7 +18,11 @@ Electrical Bill Management System is a software project designed to manage elect
 - JavaScript
 - Java / Python (as used in project)
 - Database (if used)
+##  Screenshots
 
+![Home Page](home.png)
+
+![Bill Page](bill-page.png)
 ##  Project Objective
 
 The main goal of this project is to reduce manual calculation errors and make the electricity billing process faster and more organized.
