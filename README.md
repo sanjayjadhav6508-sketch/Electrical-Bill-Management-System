@@ -22,7 +22,7 @@ Electrical Bill Management System is a software project designed to manage elect
 
 https://github.com/sanjayjadhav6508-sketch/Electrical-Bill-Management-System/blob/3bbd01c7ae8530c77174b418a863c76b5eb732d2/homepage.jpg
 
-
+https://github.com/sanjayjadhav6508-sketch/Electrical-Bill-Management-System/blob/7fcbd4bdaea0601cff3b03c3b20883ff1fcfe183/Billpage.jpg
 ##  Project Objective
 
 The main goal of this project is to reduce manual calculation errors and make the electricity billing process faster and more organized.
